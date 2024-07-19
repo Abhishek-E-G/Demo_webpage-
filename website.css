@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.head{
+    margin-left: 80px;
+}
+.head1{
+    text-align: center;
+}
+#head3 h6{
+    text-align: right;
+}
+.banner{
+    background-image: url(home.jpg);
+    height: 85vh;
+    background-size: cover;
+}
+#title{
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    color: aliceblue;
+
+}
+
+.banner h1{
+    padding-top: 200px;
+}
+#bannerbutton{
+    margin-left: 43%;
+    color: aliceblue;
+    background-color: rgb(18, 61, 18);
+    padding: 5px 20px 5px 20px;
+    border: none;
+    border-radius: 10px;
+    
+}
+#bannerbutton:hover{
+    background-color:rgb(93, 170, 93) ;
+    color: black;
+}
+#set{
+    text-align: center;
+}
+.col img{
+    width: 250px;
+    /* height: 300px; */
+    
+}
+#row1{
+    padding: 0px 110px 0px 110px;
+
+}
+#contain{
+    background-color: rgb(163, 156, 156);
+    padding: 40px;
+    margin-top: 50px;
+    
+}
+#our{
+    text-align: center;
+}
+#col2{
+    text-align: center;
+}
+#contain1{
+    padding: 30px;
+}
+#discoverbutton{
+    border: none;
+    color: aliceblue;
+    background-color: rgb(18, 61, 18);
+    padding: 2px 30px 2px 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#discoverbutton:hover{
+    background-color:rgb(93, 170, 93) ;
+    color: black;
+}
+#col3 img{
+    width: 500px;
+    height: 280px;
+    
+}
+#contain2{
+    margin-top: 50px;
+    margin-left: 180px;
+}
+#col4 h4 h5 h6{
+    padding: 25px;
+    
+}
+#button1{
+    border: none;
+    background-color:rgb(18, 61, 18);
+    padding: 2px 40px 2px 40px;
+    color: white;
+    border-radius: 10px;
+}
+#button1:hover{
+    background-color:rgb(93, 170, 93) ;
+    color: black;
+}
+
+#row3{
+    padding: 0px 110px 0px 110px;
+}
+#contain3{
+    margin-top: 30px;
+}
+.mail{
+    text-align: center;
+    margin-top: 100px;
+}
+#maillogo{
+    padding-top: 30px;
+}
+#row4{
+    margin-top: 80px;
+    background-color: black;
+    color: white;
+    padding: 20px 150px 0px 150px;
+}
+#col6 input{
+    background-color: black;
+    color: white;
+
+}
+#col7 a{
+    color: white;
+    text-decoration: none;
+   
+    
+
+}
+
+#col7 a:hover{
+    text-decoration: underline;
+    /* color: rgba(1, 54, 115, 0); */
+}
+#col1 img{
+    transition: transform 0.3s ease-in;
+}
+#col1 img:hover{
+    transform: scale(1.1);
+}
